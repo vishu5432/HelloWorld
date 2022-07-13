@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="vishu_intro">Hello World! My name is Vishu gahlot. I love Android Development and Deadpool. I am a Programming enthusiast and love graphic designing too</string>
+    <string name="button_text">Say Hello!</string>
+    <string name="image_description">Image_intro</string>
+</resources>
